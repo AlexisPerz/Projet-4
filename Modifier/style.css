@@ -702,7 +702,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
-    color-interpolation-filters: 1;
+    background-color: #F9B89A;
+    color: #363636;
 }
 
 h2 {
