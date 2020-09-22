@@ -58,7 +58,6 @@ a:hover {
 
 #bloc-8 {
     background-color: #F9B89A;
-    color: #363636;
 }
 
 .bg-center,
@@ -707,6 +706,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color: #363636;
 }
 
 h2 {
