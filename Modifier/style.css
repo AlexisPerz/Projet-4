@@ -56,6 +56,11 @@ a:hover {
     padding: 20px 50px;
 }
 
+#bloc-8 {
+    background-color: #F9B89A;
+    color: #363636;
+}
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
@@ -702,8 +707,6 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
-    background-color: #F9B89A;
-    color: #363636;
 }
 
 h2 {
