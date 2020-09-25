@@ -1,0 +1,3 @@
+User-agent : *
+Diallow : /alexisperz.github.io/Projet-4/Modifier/
+Allow : /alexisperz.github.io/Projet-4/Modifier/index.html
