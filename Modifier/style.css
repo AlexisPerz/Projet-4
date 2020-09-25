@@ -654,6 +654,10 @@ a {
     color: #363636!important;
 }
 
+.image-resize-mode {
+    border-radius: 50%;
+}
+
 .container {
     max-width: 1000px;
 }
